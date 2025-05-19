@@ -2,7 +2,7 @@ Here’s a well-formatted version for your README file:
 
 ---
 
-## **Question 1: Customer Segmentation Analysis**  
+## **Question 1: High-Value Customers with Multiple Products**  
 
 ### **Approach**  
 - Identified unique users with **savings (`is_regular_savings = 1`)** and **investment (`is_a_fund = 1`)** accounts.  
@@ -36,7 +36,6 @@ From the available records, **no users were found with both savings and investme
 | Medium Frequency | 394           | 5.02                |
 | Low Frequency   | 778           | 1.27                |
 
----
 
 ### **Account Inactivity Alert**
 #### **Approach**

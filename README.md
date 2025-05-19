@@ -1,5 +1,3 @@
-Here’s a well-formatted version for your README file:
-
 ---
 
 ## **Question 1: High-Value Customers with Multiple Products**  

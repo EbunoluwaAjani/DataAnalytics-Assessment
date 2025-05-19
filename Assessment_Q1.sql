@@ -37,7 +37,7 @@ SELECT
   t2.savings_count,
   t2.investment_count,
   t2.total_deposit,
-  CONCAT(u.first_name, ' ', u.last_name) AS name
+  CONCAT(u.first_name,' ', u.last_name) AS name
 FROM
   table_02 AS t2
 INNER JOIN
